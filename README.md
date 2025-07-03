@@ -1,8 +1,8 @@
-# 🐉 Dragon Repeller RPG
+# 🐉 Dragon Repeller RPG (freeCodeCamp Tutorial Project)
 
 ![Gameplay Screenshot](./screenshot.png)
 
-A vanilla JavaScript text-based RPG where players battle monsters, manage resources, and strategize to defeat the final dragon.
+A JavaScript text-based RPG developed while completing freeCodeCamp's curriculum, featuring monster battles and resource management.
 
 ## ✨ Features
 - 🗡️ Dynamic combat system (attack/dodge mechanics)
@@ -13,9 +13,15 @@ A vanilla JavaScript text-based RPG where players battle monsters, manage resour
 - 📱 Responsive design for all screen sizes
 
 ## 🛠 Tech Stack
+[![freeCodeCamp](https://img.shields.io/badge/Tutorial%20by-freeCodeCamp-0A0A23?logo=freecodecamp)](https://www.freecodecamp.org/)  
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+## 📚 Original Tutorial
+```
+[freeCodeCamp's Guide](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/build-a-dungeon-crawler-game-project/build-a-dungeon-crawler-game)
+```
 
 ## 🚀 Quick Start
 ```bash
