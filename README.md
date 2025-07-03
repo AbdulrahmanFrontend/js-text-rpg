@@ -19,9 +19,7 @@ A JavaScript text-based RPG developed while completing freeCodeCamp's curriculum
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 ## 📚 Original Tutorial
-```
-[freeCodeCamp's Guide](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/build-a-dungeon-crawler-game-project/build-a-dungeon-crawler-game)
-```
+![freeCodeCamp's Guide](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-basic-javascript-by-building-a-role-playing-game)
 
 ## 🚀 Quick Start
 ```bash
