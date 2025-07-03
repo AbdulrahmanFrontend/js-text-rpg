@@ -13,13 +13,13 @@ A JavaScript text-based RPG developed while completing freeCodeCamp's curriculum
 - 📱 Responsive design for all screen sizes
 
 ## 🛠 Tech Stack
-[![freeCodeCamp](https://img.shields.io/badge/Tutorial%20by-freeCodeCamp-0A0A23?logo=freecodecamp)](https://www.freecodecamp.org/)  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+[![freeCodeCamp](https://img.shields.io/badge/Tutorial%20by-freeCodeCamp-0A0A23?logo=freecodecamp)](https://www.freecodecamp.org/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://www.w3schools.com/html/default.asp)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://www.w3schools.com/css/default.asp)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://www.w3schools.com/js/)
 
 ## 📚 Original Tutorial
-![freeCodeCamp's Guide](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-basic-javascript-by-building-a-role-playing-game)
+[![freeCodeCamp's Guide](https://img.shields.io/badge/Tutorial%20by-freeCodeCamp-0A0A23?logo=freecodecamp)](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-basic-javascript-by-building-a-role-playing-game)
 
 ## 🚀 Quick Start
 ```bash
