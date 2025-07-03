@@ -31,13 +31,14 @@ open index.html
 4. Battle the Dragon - Defeat the final boss to win!
 
 📂 Project Structure
-text
+```text
 js-text-rpg/
 ├── index.html          # Core HTML structure
 ├── styles.css          # Game styling and layout
 ├── script.js           # Game logic and mechanics
 ├── README.md           # Project documentation
 └── screenshot.png      # Game preview
+```
 
 🔍 Key Code Implementation
 ```javascript
@@ -60,6 +61,7 @@ function update(location) {
   button3.onclick = location["button functions"][2];
   text.innerHTML = location.text;
 }
+```
 
 🌐 Live Demo
 https://img.shields.io/badge/Play-Live_Demo-2ea44f
