@@ -22,6 +22,7 @@ A vanilla JavaScript text-based RPG where players battle monsters, manage resour
 git clone https://github.com/AbdulrahmanFrontend/js-text-rpg.git
 cd js-text-rpg
 open index.html
+```
 
 🎮 Gameplay Guide
 1. Start in Town Square - Your adventure begins here
