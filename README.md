@@ -68,9 +68,7 @@ function update(location) {
 ```
 
 🌐 Live Demo
-```
-https://img.shields.io/badge/Play-Live_Demo-2ea44f
-```
+[![Try it live](https://img.shields.io/badge/Play-Live_Demo-2ea44f)]
 
 📜 Development Notes
 - Implemented game state management using vanilla JS
