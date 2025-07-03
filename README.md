@@ -68,7 +68,7 @@ function update(location) {
 ```
 
 🌐 Live Demo
-[![Try it live](https://img.shields.io/badge/Play-Live_Demo-2ea44f)]
+[![Try it live](https://img.shields.io/badge/Play-Live_Demo-2ea44f)](https://abdulrahmanfrontend.github.io/js-text-rpg/)
 
 📜 Development Notes
 - Implemented game state management using vanilla JS
